@@ -1,6 +1,6 @@
 # Neural Language Identifier
 
-## I build a language identifier that supports 100 languages. You can directly try the [identifier](https://5d7b-54-202-157-241.ngrok.io) online.
+## A language identifier that supports 100 languages. You can directly try the [identifier](https://5d7b-54-202-157-241.ngrok.io) online. (Online demo not functional at this time.)
 
 ## Implementation
 
